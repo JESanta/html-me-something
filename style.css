@@ -1,0 +1,25 @@
+p {
+    font-family: Arial;
+  }
+  
+h1 {
+color: maroon;
+}
+.title{
+color: teal;
+}
+.uppercase {text-transform: uppercase;
+}
+  
+.green {
+  color: green;
+}
+
+.bold {
+  font-weight: bold;
+}
+#large-title { font-family: cursive;
+    text-transform: capitalize}
+    body { margin: 60;
+    padding: 60; }
+    
